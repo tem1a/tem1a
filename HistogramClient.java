@@ -1,6 +1,4 @@
 // Temi Adejumobi
-// January 26, 2022
-// Homework #1
 // Program reads integers from a file and divedes them in ranges, creating a
 // histogram of sorts
 

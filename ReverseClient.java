@@ -1,6 +1,4 @@
 // Temi Adejumobi
-// January 31, 2022
-// Homework #2
 // Program displays the lines of an input file in reverse order
 
 import java.util.*;

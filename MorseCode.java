@@ -1,6 +1,4 @@
 // Temi Adejumobi
-// Feb 1, 2022
-// Homework #2
 // Program reads in lines from the user and translates each line either to or
 // from morse code.
 

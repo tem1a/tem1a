@@ -1,6 +1,4 @@
 // Temi Adejumobi
-// January 31, 2022
-// Homework #2
 // Program counts the number of unique words in a file and prints out the set.
 
 import java.util.*;

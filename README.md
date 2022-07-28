@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Temi Adejumobi
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Java, Python 
-- 💞️ I’m looking to collaborate on data analytics projects in soccer
+- 🌱 I’m currently learning R, Java, Python and how markets work. 
+- 💞️ I’m looking to collaborate on data analytics projects in soccer or economics/finance. 
 - 📫 How to reach me: olu.adejumobi@gmail.com
 
 <!---
